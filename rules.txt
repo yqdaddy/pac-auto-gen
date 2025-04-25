@@ -16,3 +16,5 @@
 *.freegpt.one
 *.manus.im
 manus.im
+*.trae.ai
+trae.ai
