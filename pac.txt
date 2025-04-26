@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-04-26 14:46:12
+ * Generated: 2025-04-26 14:49:15
  * GFWList Last-Modified: 2025-04-24 11:57:46
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
@@ -10,6 +10,7 @@ var rules = [
     [
         [],
         [
+            "101ml.gay",
             "flutter.dev",
             "freegpt.one",
             "github.com",
@@ -17,11 +18,14 @@ var rules = [
             "githubassets.com",
             "githubusercontent.com",
             "jetbrains.com",
+            "manus.im",
             "npmjs.com",
             "pub.dev",
             "reactjs.org",
+            "trae.ai",
             "unpkg.com",
-            "vuejs.org"
+            "vuejs.org",
+            "z-library.sk"
         ]
     ],
     [
