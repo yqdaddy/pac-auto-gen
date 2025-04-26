@@ -14,3 +14,10 @@
 *.flutter.dev
 
 *.freegpt.one
+
+*.manus.im
+manus.im
+*.trae.ai
+trae.ai
+z-library.sk
+*.101ml.gay
