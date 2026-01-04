@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-12-28 01:46:09
- * GFWList Last-Modified: 2025-12-27 13:31:55
+ * Generated: 2026-01-04 01:47:21
+ * GFWList Last-Modified: 2026-01-02 09:38:24
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -99,7 +99,6 @@ var rules = [
             "nvri.gov.tw",
             "ocsp.pki.goog",
             "penghu-nsa.gov.tw",
-            "pinterest.cn",
             "post.gov.tw",
             "qq.com",
             "redirector.gvt1.com",
@@ -3962,6 +3961,7 @@ var rules = [
             "pdetails.com",
             "pdproxy.com",
             "pds.nasa.gov",
+            "pdst.fm",
             "peace.ca",
             "peacefire.org",
             "peeasian.com",
@@ -4011,6 +4011,23 @@ var rules = [
             "pinimg.com",
             "pinkrod.com",
             "pinoy-n.com",
+            "pinterest.at",
+            "pinterest.ca",
+            "pinterest.cl",
+            "pinterest.co.uk",
+            "pinterest.com",
+            "pinterest.com.au",
+            "pinterest.com.mx",
+            "pinterest.de",
+            "pinterest.es",
+            "pinterest.fr",
+            "pinterest.ie",
+            "pinterest.it",
+            "pinterest.jp",
+            "pinterest.nz",
+            "pinterest.ph",
+            "pinterest.pt",
+            "pinterest.se",
             "pioneer-worker.forums-free.com",
             "pipii.tv",
             "piraattilahti.org",
@@ -5356,6 +5373,7 @@ var rules = [
             "unstable.icu",
             "unwire.hk",
             "uocn.org",
+            "up.audio",
             "upbit.com",
             "updates.tdesktop.com",
             "upghsbc.com",
