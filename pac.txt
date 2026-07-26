@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-07-19 02:31:09
- * GFWList Last-Modified: 2026-07-18 01:04:10
+ * Generated: 2026-07-26 02:35:14
+ * GFWList Last-Modified: 2026-07-24 04:52:38
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -775,6 +775,7 @@ var rules = [
             "cia.gov",
             "cici.com",
             "ciciai.com",
+            "circle19.org",
             "cirosantilli.com",
             "citizencn.com",
             "citizenlab.ca",
@@ -787,6 +788,7 @@ var rules = [
             "civitai.com",
             "cixiaoya.club",
             "ck101.com",
+            "clashyun.com",
             "classicalguitarblog.net",
             "claude.ai",
             "claude.com",
@@ -2172,6 +2174,7 @@ var rules = [
             "kantie.org",
             "kaotic.com",
             "karayou.com",
+            "kards.com",
             "kathmandupost.com",
             "kawaiikawaii.jp",
             "kawase.com",
@@ -3435,6 +3438,7 @@ var rules = [
             "syncback.com",
             "synergyse.com",
             "syosetu.com",
+            "sysub.com",
             "t-g.com",
             "t.co",
             "t.me",
@@ -3648,6 +3652,7 @@ var rules = [
             "togetter.com",
             "token.im",
             "tokenlon.im",
+            "tokenplus.app",
             "tokyo-porn-tube.com",
             "tokyocn.com",
             "tomp3.cc",
@@ -4312,6 +4317,7 @@ var rules = [
             "zello.com",
             "zenmate.com",
             "zenmate.com.ru",
+            "zenmux.ai",
             "zerohedge.com",
             "zeronet.io",
             "zh-hans.cfsh99.com",
